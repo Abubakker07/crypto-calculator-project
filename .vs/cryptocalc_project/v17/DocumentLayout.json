@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\databasehelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:databasehelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|c:\\users\\abu bakker\\source\\repos\\cryptocalc_project\\historyform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:historyform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\miningcalculatorservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:miningcalculatorservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\historyform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:historyform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\coingeckoapi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:coingeckoapi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\authservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:authservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\printform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:printform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\printform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2139110-51C6-4E15-87F2-A00E7269D232}|cryptocalc_project.vbproj|solutionrelative:printform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\LoginForm.vb",
+              "RelativeDocumentMoniker": "LoginForm.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\LoginForm.vb [Design]",
+              "RelativeToolTip": "LoginForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T14:40:12.542Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\RegisterForm.vb",
+              "RelativeDocumentMoniker": "RegisterForm.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\RegisterForm.vb [Design]",
+              "RelativeToolTip": "RegisterForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T14:57:44.051Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\HistoryForm.vb",
+              "RelativeDocumentMoniker": "HistoryForm.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\HistoryForm.vb [Design]",
+              "RelativeToolTip": "HistoryForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T14:59:23.098Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelper.vb",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\DatabaseHelper.vb",
+              "RelativeDocumentMoniker": "DatabaseHelper.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\DatabaseHelper.vb",
+              "RelativeToolTip": "DatabaseHelper.vb",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T14:55:02.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiningCalculatorService.vb",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\MiningCalculatorService.vb",
+              "RelativeDocumentMoniker": "MiningCalculatorService.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\MiningCalculatorService.vb",
+              "RelativeToolTip": "MiningCalculatorService.vb",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-18T15:01:57.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistoryForm.vb",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\HistoryForm.vb",
+              "RelativeDocumentMoniker": "HistoryForm.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\HistoryForm.vb",
+              "RelativeToolTip": "HistoryForm.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T14:59:24.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\MainForm.vb",
+              "RelativeToolTip": "MainForm.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwNIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T16:13:16.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoinGeckoAPI.vb",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\CoinGeckoAPI.vb",
+              "RelativeDocumentMoniker": "CoinGeckoAPI.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\CoinGeckoAPI.vb",
+              "RelativeToolTip": "CoinGeckoAPI.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-18T15:14:36.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.vb",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\AuthService.vb",
+              "RelativeDocumentMoniker": "AuthService.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\AuthService.vb",
+              "RelativeToolTip": "AuthService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T14:55:56.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\MainForm.vb [Design]",
+              "RelativeToolTip": "MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-18T14:39:48.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.vb",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\LoginForm.vb",
+              "RelativeDocumentMoniker": "LoginForm.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\LoginForm.vb",
+              "RelativeToolTip": "LoginForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T14:41:02.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterForm.vb",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\RegisterForm.vb",
+              "RelativeDocumentMoniker": "RegisterForm.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\RegisterForm.vb",
+              "RelativeToolTip": "RegisterForm.vb",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T14:57:45.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrintForm.vb",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\PrintForm.vb",
+              "RelativeDocumentMoniker": "PrintForm.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\PrintForm.vb",
+              "RelativeToolTip": "PrintForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T15:00:04.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PrintForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\PrintForm.vb",
+              "RelativeDocumentMoniker": "PrintForm.vb",
+              "ToolTip": "C:\\Users\\ABU BAKKER\\source\\repos\\cryptocalc_project\\PrintForm.vb [Design]",
+              "RelativeToolTip": "PrintForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T15:00:03.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
