@@ -8,7 +8,7 @@ A Windows Forms desktop application built with **VB.NET** and **MySQL** that cal
 
 | Login Form                               | Register Form                                |
 | ---------------------------------------- | -------------------------------------------- |
-| ![Login Form Screenshot](path/to/login.jpg) | ![Register Form Screenshot](path/to/register.jpg) |
+| ![Login Form Screenshot](crypto-calculator-project/login-ss) | ![Register Form Screenshot](path/to/register.jpg) |
 
 | Main Calculator                                | Calculation History                                    |
 | ---------------------------------------------- | ------------------------------------------------------ |
