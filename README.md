@@ -8,15 +8,15 @@ A Windows Forms desktop application built with **VB.NET** and **MySQL** that cal
 
 | Login Form                               | Register Form                                |
 | ---------------------------------------- | -------------------------------------------- |
-| ![Login Form Screenshot](login-ss.png) | ![Register Form Screenshot](path/to/register.jpg) |
+| ![Login Form Screenshot](login-ss.png) | ![Register Form Screenshot](reg-ss.png) |
 
 | Main Calculator                                | Calculation History                                    |
 | ---------------------------------------------- | ------------------------------------------------------ |
-| ![Calculator Screenshot](path/to/calculator.jpg) | ![History Screenshot](path/to/history.jpg)             |
+| ![Calculator Screenshot](main-ss.png) | ![History Screenshot](history-ss.png)             |
 
 | Print Preview                                  |
 | ---------------------------------------------- |
-| ![Print Preview Screenshot](path/to/print.jpg) |
+| ![Print Preview Screenshot](print-ss.png) |
 
 ---
 
@@ -112,14 +112,13 @@ To get a local copy up and running, follow these detailed steps.
 
 **Mohammed Abubakker Siddiqui**
 
--   **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/your-profile-url)
--   **GitHub:** [@your-username](https://github.com/your-username)
--   **Email:** your.email@example.com
+-   **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/md-abubakker-siddiqui/)
+-   **Email:** your.mh.abubakker7@gmail.com
 
 ---
 
 ## 🙏 Acknowledgments
 
-*   This project was developed as part of my coursework at KJU.
+*   This project was developed as part of my coursework at my uni.
 *   Data provided by [CoinGecko](https://www.coingecko.com/).
 *   Thanks to the open-source community for providing the necessary tools and libraries.
