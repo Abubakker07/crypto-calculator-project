@@ -112,8 +112,8 @@ To get a local copy up and running, follow these detailed steps.
 
 **Mohammed Abubakker Siddiqui**
 
--   **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/md-abubakker-siddiqui/)
--   **Email:** your.mh.abubakker7@gmail.com
+-   **LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/md-abubakker-siddiqui/)
+-   **Email:** mh.abubakker7@gmail.com
 
 ---
 
