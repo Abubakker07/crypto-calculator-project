@@ -117,7 +117,7 @@ Public Class MainForm
         Dim lbl As New Label With {
             .Text = labelText,
             .ForeColor = Color.White,
-            .Font = New Font("Segoe UI", 10, FontStyle.Bold),
+            .Font = New Font("Segoe UI", 15, FontStyle.Bold),
             .Location = New Point(30, y),
             .AutoSize = True
         }
@@ -125,8 +125,8 @@ Public Class MainForm
 
         outputLabel.Text = "$0.00"
         outputLabel.ForeColor = Color.Lime
-        outputLabel.Font = New Font("Segoe UI", 10, FontStyle.Bold)
-        outputLabel.Location = New Point(180, y)
+        outputLabel.Font = New Font("Segoe UI", 15, FontStyle.Bold)
+        outputLabel.Location = New Point(230, y)
         outputLabel.AutoSize = True
         panel.Controls.Add(outputLabel)
     End Sub
