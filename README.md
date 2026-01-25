@@ -12,7 +12,7 @@ A Windows Forms desktop application built with **VB.NET** and **MySQL** that cal
 
 | Main Calculator                                | Calculation History                                    |
 | ---------------------------------------------- | ------------------------------------------------------ |
-| ![Calculator Screenshot](main-ss.png) | ![History Screenshot](history-ss.png)             |
+| ![Calculator Screenshot](mining-ss.png) | ![History Screenshot](history-ss.png)             |
 
 | Print Preview                                  |
 | ---------------------------------------------- |
