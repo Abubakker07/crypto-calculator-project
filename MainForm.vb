@@ -61,11 +61,11 @@ Public Class MainForm
 
         ' Header Label
         Dim lblHeader As New Label With {
-            .Text = "Cryptocurrency Mining Calculator",
-            .ForeColor = Color.Cyan,
-            .Font = New Font("Segoe UI", 12, FontStyle.Bold),
+            .Text = "Mining Calculator",
+            .ForeColor = Color.Gainsboro,
+            .Font = New Font("ROG Fonts", 16.5, FontStyle.Bold),
             .AutoSize = True,
-            .Location = New Point((panel.Width - 300) \ 2, 20)
+            .Location = New Point((panel.Width - 315) \ 2, 20)
         }
         panel.Controls.Add(lblHeader)
 
